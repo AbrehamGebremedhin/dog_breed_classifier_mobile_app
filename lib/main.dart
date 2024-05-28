@@ -60,7 +60,7 @@ class _ImageUploadScreenState extends State<ImageUploadScreen> {
     });
 
     const url =
-        'http://192.168.1.3:8000/api/'; // Replace with your API endpoint
+        'http://192.168.1.3:8000/api/';
 
     if (_image == null) {
       // No image selected
